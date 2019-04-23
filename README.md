@@ -1,4 +1,4 @@
-# Chapter 1 - Homework
+# Chapter 2 - Homework
 
 ## Exercises
 
